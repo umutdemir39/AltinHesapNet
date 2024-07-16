@@ -78,7 +78,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>aUPVx7WxPELQKrSHjXfPWg+3wgPwKDryYklEs2u0N8s=</dsig:DigestValue>
+      <dsig:DigestValue>TfbP5ZDhNWgwcB9I0i5vs9/UgfqauQYivQIBwnfjefw=</dsig:DigestValue>
     </hash>
   </file>
   <file name="AltinHesapNet.dll.config" size="1843">
@@ -96,7 +96,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>9rzOND3C6iumz5PeZo4DCKWlAtleBG9L7iQUOR/5lm8=</dsig:DigestValue>
+      <dsig:DigestValue>9Qrk/2WNuE6UZbLGbKDiVZPTil/sKlhYSe4S888PAU8=</dsig:DigestValue>
     </hash>
   </file>
   <file name="AltinHesapNet.runtimeconfig.json" size="458">
